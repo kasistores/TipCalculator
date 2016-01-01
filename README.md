@@ -1,4 +1,4 @@
-# Pre-work - tipster
+# Pre-work - tips
 
 tipster is a tip calculator application for iOS.
 
