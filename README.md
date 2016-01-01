@@ -35,6 +35,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+I didn't know how to do a lot of the things I wanted to do beforehand and had to settle with more functionality. I wanted to deselect the tip percentages in the segmented control if I wanted to use the default tip percent. Also, I couldn't figure out how to do animations either which I should have definitely spent more time researching. I also figured out fairly late how to customize the buttons like the stepper and the segmented control and I stil can't figure out how to change to color of the navigation bar. It took me a long time to figure out how to add the % sign to the label in the screen. I googled for a long time and ended up with too complex solutions that I could not figure out and I finally fingured it out through the simplest way possible. It also took a long time for me to understand that I could edit the last price through two different methods. Another simple solution that I spent way too much time overthinking.
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
