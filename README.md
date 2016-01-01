@@ -29,6 +29,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://i.imgur.com/CGt0PFv.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+When entering the app you are introduced to the keypad. you can choose your initial bill amount at the spot. you can also split the bill by up to 99 people. The first 5 are shown upon opening the application. You can then choose the different tip percentages throug the segment control. Default tip percentage is shown by the default key. It can be changed by going into the settings and changing the default tip amount. It can only be changed if you click the save button. After restarting the application by quitting it, you can see that the default tip amount that you entered is saved into the application.
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
